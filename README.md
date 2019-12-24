@@ -49,7 +49,7 @@ can be chosen with [F1] or [F2].
 ### Final Score Layout
 ![FinalLayout](/Pictures/Final-Score-Representation.jpg)
 ### Tile Layout
-![TileLayout](/Pictures/Tile-Layout-and Queue.png)
+![TileLayout](/Pictures/Tile-Layout-and-Queue.png)
 
 
 
