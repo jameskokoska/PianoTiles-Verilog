@@ -1,12 +1,18 @@
 # PianoTiles - Verilog
 * A Piano Tiles game written entirely in the hardware based language, Verilog
 ## Features
-* PS2 Keyboard support
 * 2 gamemodes
+* Pseudo random tiles
+* Final scores
+* PS2 Keyboard support
 ## Preview
+Title Screen<br>
 ![Title](/Pictures/Title-Screen.png)
+Random Tile Queue on Start<br>
 ![Random Start](/Pictures/Random-Queue-Start.png)
+Incorrect Tile hit, progress bar shown on side<br>
 ![Fault](/Pictures/Progress-Bar-and-Incorrect-Tile.png)
+Game Finished, final score displayed<br>
 ![Final](/Pictures/Final-Score-Screen.png)
 ## Game Details and Features
 ### The First Game Mode
