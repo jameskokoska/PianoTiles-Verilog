@@ -1,4 +1,4 @@
-# PianoTiles - Verilog
+# Piano Tiles - Verilog
 * A Piano Tiles game written entirely in the hardware based language, Verilog
 ## Features
 * 2 gamemodes
