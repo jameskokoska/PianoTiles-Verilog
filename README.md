@@ -4,6 +4,10 @@
 * PS2 Keyboard support
 * 2 gamemodes
 ## Preview
+![Title](/Pictures/Title-Screen.png)
+![Random Start](/Pictures/Random-Queue-Start.png)
+![Fault](/Pictures/Progress-Bar-and-Incorrect-Tile.png)
+![Final](/Pictures/Final-Score-Screen.png)
 ## Game Details and Features
 ### The First Game Mode
 In the first game mode, the player has to tap as many tiles as possible without mistapping the current black tile. The
@@ -33,4 +37,13 @@ the timer hits 0 seconds, the game is won and the final score is displayed (numb
 tapped). At this point, hitting [shift] will restart this game mode or another game mode
 can be chosen with [F1] or [F2].
 ### The State Diagram
-![State Diagram](/Pictures/State Diagram.jpg)
+![State](/Pictures/State-Diagram.jpg)
+### Basic Block Diagram
+![Block](/Pictures/Basic-Block-Diagram.jpg)
+### Final Score Layout
+![FinalLayout](/Pictures/Final-Score-Representation.jpg)
+### Tile Layout
+![TileLayout](/Pictures/Tile-Layout-and Queue.png)
+
+
+
